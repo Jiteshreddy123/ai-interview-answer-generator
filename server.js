@@ -30,6 +30,9 @@ Provide:
 1. Recruiter Ready Answer
 2. Key Interview Points
 3. Follow Up Questions
+4. Interview Readiness Score (out of 10)
+5. Strengths
+6. Areas for Improvement
 
 Question:
 ${question}
