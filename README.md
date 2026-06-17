@@ -13,6 +13,10 @@ https://ai-interview-answer-generator.onrender.com/
 <img width="1896" height="972" alt="Screenshot 2026-06-17 210824" src="https://github.com/user-attachments/assets/f9c52524-9623-4cca-a9e9-57bbf8d6bd2f" />
 <img width="1913" height="967" alt="Screenshot 2026-06-17 210855" src="https://github.com/user-attachments/assets/084b7e56-4c8d-402a-8053-0615214f2d1f" />
 
+##Demo Video
+
+<video controls src="Screen Recording 2026-06-17 211524.mp4" title="Title"></video>
+
 ## 🌐 Live Link
 
 [click here](https://ai-interview-answer-generator.onrender.com/)
